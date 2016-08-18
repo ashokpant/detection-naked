@@ -23,9 +23,10 @@ Displays internal stages of detection.
 	$ cmake ..
 	$ make 
 	
-## Uses Example
+## Uses
 	$ cd detection-naked/build
-	$ ./detection_demo --detector=../data/haarcascade_frontalface_alt2.xml --image=../images/ashok.jpg -minWH=300x300 --parallel=false --naked=true --group=true --minNeighbour=1
+	$ ./detection_demo --detector=../data/haarcascade_frontalface_alt2.xml --image=../images/ashok.jpg
+	 -minWH=300x300 --parallel=false --naked=true --group=true --minNeighbour=1
 	
 	Options:
 	--naked <detection mode (true/false), default true>
@@ -41,7 +42,7 @@ Displays internal stages of detection.
 	--minWH <detector minimum widthxheight>
 	--minNeighbour <minimum number of neighbours to group the matched patches>
 
-![](https://github.com/ashokpant/text-on-image/blob/master/demo/all-stages.png)
+![](https://github.com/ashokpant/detection-naked/blob/master/demo/all-stages.png)
 	
 ## Other Examples
 
