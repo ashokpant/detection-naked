@@ -8,7 +8,7 @@ Web:         http://ashokpant.github.io
 Date:        August 18, 2016 
 -->
 
-# **OpenCV detector is naked!!**
+# **OpenCV detector naked!!**
 Displays internal stages of detection.
 
 ## Dependencies
