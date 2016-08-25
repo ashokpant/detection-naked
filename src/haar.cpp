@@ -1851,7 +1851,6 @@ double icvEvalHidHaarClassifierAVX( CvHidHaarClassifier* classifier,
         }
         else {
             waitKey(20);
-            cvWaitKey(0);
             for (i = start_stage; i < cascade->count; i++) {
                 stage_sum = 0.0;
                 int k = 0;

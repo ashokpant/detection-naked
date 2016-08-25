@@ -42,9 +42,11 @@ Displays internal stages of detection.
 	--minWH <detector minimum widthxheight>
 	--minNeighbour <minimum number of neighbours to group the matched patches>
 
-![](https://github.com/ashokpant/detection-naked/blob/master/demo/all-stages.png)
+![](https://github.com/ashokpant/detection-naked/blob/master/demo/ashok-detection-naked.png)
+
 	
 ## Other Examples
 
-![Haar Features](https://github.com/ashokpant/detection-naked/blob/master/demo/detection.gif)
-
+![Haar Features](https://github.com/ashokpant/detection-naked/blob/master/demo/ashok-detection-haar-features.gif)
+![Lena Darling](https://github.com/ashokpant/detection-naked/blob/master/demo/lena-detection-naked.png)
+![Lena Darling](https://github.com/ashokpant/detection-naked/blob/master/demo/lena-detection.gif)
